@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<head>
+    <title>Mi app de gatitos</title>
+</head>
+<body>
+    <h1>Hola mundo</h1>
+    <h2>Hola mundo</h2>
+    <h3>Hola mundo</h3>
+    <h4>Hola mundo</h4>
+
+    <main>
+        <a href="#parrafo-1">Parrafo 1</a>
+        <a href="#parrafo-2">Parrafo 2</a>
+        <a href="#parrafo-3">Parrafo 3</a>
+        <h3>Esta es una app de gatitos</h3>
+        <h3 id="parrafo-1">Parrafo-1</h3>
+        <p>Los gatos domésticos, sea cual sea su raza, son todos miembros de una misma especie, Felis silvestris catus, que mantiene una relación con los humanos desde hace mucho tiempo. Los antiguos egipcios habrían sido los primeros en domesticar gatos, hace ya 4.000 años.</p>
+        <h4 id="parrafo 2">Parrafo-2</h4>
+        <p>Los gatos domésticos, sea cual sea su raza, son todos miembros de una misma especie, Felis silvestris catus, que mantiene una relación con los humanos desde hace mucho tiempo. Los antiguos egipcios habrían sido los primeros en domesticar gatos, hace ya 4.000 años.</p>
+        <h5 id="parrafo 3">Parrafo-3</h5>
+        <p>Los gatos domésticos, sea cual sea su raza, son todos miembros de una misma especie, Felis silvestris catus, que mantiene una relación con los humanos desde hace mucho tiempo. Los antiguos egipcios habrían sido los primeros en domesticar gatos, hace ya 4.000 años.</p>
+
+        <img src="https://ca-times.brightspotcdn.com/dims4/default/c3f4b96/2147483647/strip/true/crop/1970x1108+39+0/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Fa5%2F79e097ccf62312d18a025f22ce48%2Fhoyla-recuento-11-cosas-aman-gatos-top-001"
+        alt="gatito bonito" height="300" width="300">
+        <link href="style.css" rel="verdana"> <!--Esto es un archivo externo-->
+
+        <p>Listas</p> 
+        <p>Cosas que aman los gatitos</p>
+        <ul>
+            <li>jugar</li>
+            <li>comer</li>
+            <li>dormir</li>
+        </ul> <!--Lista no ordenada (unordered)-->
+
+        <p>cosas que los gatitos <strong>odian</strong>:</p>
+        <!--listas ordenadas-->
+        <ol> <!--ol = ordered list-->
+            <li>Truenos</li> <!--li = list item-->
+            <li><s>Otros gatos</s></li> <!--Etiqueta 's' para texto tachado-->
+            <li>Tratamientos antipulgas</li>
+        </ol>
+            
+        <!--formulario-->
+        <form action="/enviar-respuesta">
+            <!--Texto y boton enviar-->
+            <input type="text" placeholder="URL de la foto de tu gato" required>
+            <br>
+            <button type="submit">Enviar</button> </button>
+
+            <!--Botones de radio-->
+            <p></p>
+        </form>
+    
+    </main>
+</body
