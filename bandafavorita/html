@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParkJimin</title>
+</head>
+<body>
+    <h1>Park Jimin</h1>
+    <p>Nació el (13 de octubre de 1995) en Busan, Corea del Sur. Cantante y bailarín surcoreano, miembro del popular grupo de K-Pop BTS (Bangtan Sonyeondan). 
+    Inició su formación artística desde temprana edad, tomando clases de baile en la  Busan High School of Arts y el Korean Arts High School.  En 2011, ingresó a Big Hit Entertainment como aprendiz  y dos años después debutó junto a RM, V, Jin, Suga, Jungkook y J-Hope con el tema No More Dream, parte de su sencillo debut 2 Cool 4 Skool (2013). Desde entonces ha cosechado grandes éxitos como vocalista, bailarín  y compositor. Entre sus composiciones más reconocidas están: Boyz with Fun, Lie, Christmas Day y Promise, su primer canción en solitario.</p>
+    <hr>
+    <img src="https://idheas.org/wp-content/uploads/2021/04/Biografia-de-Jimin-BTS2-min.jpg">
+    <form action="">
+        <h3>¿Cuando nacio?</h3>
+    <input type="text" name="nombre" placeholder="Escribe aqui">
+    <input type="submit">
+    <br>
+    <h3>¿Desde cuando te empezo a gustar?</h3>
+    <input type="email" name="correo" placeholder="Escribe aqui">
+    <input type="submit">
+    <br>
+    <h3>¿A que banda de musica pertenece?</h3>
+    <input type="text" name="nombre" placeholder="Escribe aqui">
+    <input type="submit">
+    <br>
+    <h3>¿Por que te gusta Park Jimin?</h3>
+    <input type="email" name="correo" placeholder="Escribe aqui">
+    <input type="submit">
+
+
+
+
+    </form>
+
+    
+</body>
+</html>
